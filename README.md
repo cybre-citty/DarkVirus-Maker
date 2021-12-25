@@ -3,7 +3,6 @@ Those who don't know how to use VCRT. You can automatically generate a virus.
 
 ---
 
-# Next Update Version 1.4
 ## Features
 Will be converted into python 3
 + Choose Api Share
@@ -43,7 +42,7 @@ __Other__
 
 
 ## Installation:
-> git clone https://github.com/ZechBron/DarkVirus-Maker
+> git clone https://github.com/DarkWinzo/DarkVirus-Maker
 
 > cd DarkVirus-Maker
 
