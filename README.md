@@ -56,7 +56,7 @@ __Other__
 
 __Or__
 
-> bash DarkVirus-Maker
+> bash DarkVirus
 
 
 ## To Update
