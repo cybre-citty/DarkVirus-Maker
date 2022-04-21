@@ -4,7 +4,12 @@ Those who don't know how to use VCRT. You can automatically generate a virus.
 <img src="https://github.com/DarkWinzo/Bosco/blob/main/bosco.gif" width="400"
 
      
-     ---
+     
+     
+     
+     
+     
+ ---
 
 ## Features
 Will be converted into python 3
