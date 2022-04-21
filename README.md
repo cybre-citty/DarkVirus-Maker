@@ -22,7 +22,7 @@ Will be converted into python 3
 Because of consecutive storm here in our country. The update will on February
 
 
-![DarkVirus-Maker Created By: DarkWinzo](https://DarkWinzo/DarkVirus-Maker/Dark-Virus.jpg)
+![DarkVirus-Maker Created By: DarkWinzo](https://github.com/DarkWinzo/DarkVirus-Maker/blob/main/DarkVirus-Maker.gif)
 
 ## What does `DarkVirus` Actually do?
 Well __Dark Virus__ is a Collection of ready made Viruses.
