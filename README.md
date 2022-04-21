@@ -1,7 +1,7 @@
 # DarkVirus Maker [![Current Version ](https://img.shields.io/badge/Current%20Version-1.1-blue?style=flat-square)](https://github.com/ZechBron/DarkVirus-Maker-Gen)
 Those who don't know how to use VCRT. You can automatically generate a virus.
 <div align="center">
-<img src="https://github.com/DarkWinzo/DarkVirus-Maker/blob/main/Dark-Virus.gif" width="200"
+<img src="https://github.com/DarkWinzo/DarkVirus-Maker/blob/main/Dark-Virus.gif" width="400"
 
      
      
