@@ -1,6 +1,7 @@
 # DarkVirus Maker [![Current Version ](https://img.shields.io/badge/Current%20Version-1.1-blue?style=flat-square)](https://github.com/ZechBron/DarkVirus-Maker-Gen)
 Those who don't know how to use VCRT. You can automatically generate a virus.
-
+<div align="center">
+<img src="https://github.com/DarkWinzo/Bosco/blob/main/bosco.gif" width="400"
 ---
 
 ## Features
@@ -21,9 +22,6 @@ Will be converted into python 3
 
 Because of consecutive storm here in our country. The update will on February
 
-
-<div align="center">
-<img src="https://github.com/DarkWinzo/Bosco/blob/main/bosco.gif" width="400"
      
 ## What does `DarkVirus` Actually do?
 Well __Dark Virus__ is a Collection of ready made Viruses.
