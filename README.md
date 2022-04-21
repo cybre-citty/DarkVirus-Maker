@@ -22,8 +22,9 @@ Will be converted into python 3
 Because of consecutive storm here in our country. The update will on February
 
 
-![DarkVirus-Maker Created By: DarkWinzo](https://github.com/DarkWinzo/DarkVirus-Maker/blob/main/DarkVirus.gif)
-
+<div align="center">
+<img src="https://github.com/DarkWinzo/Bosco/blob/main/bosco.gif" width="400"
+     
 ## What does `DarkVirus` Actually do?
 Well __Dark Virus__ is a Collection of ready made Viruses.
 In other Virus Generator tools like let's say vbug, or vcrt. It generate apk virus and you have to manually send it to your victim.
