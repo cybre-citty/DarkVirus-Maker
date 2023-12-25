@@ -43,7 +43,10 @@ However in __Dark Virus__ All you have to do is to send the __link__ to your vic
 __Ubuntu__
 > apt-get install git -y
 
-__Termux__
+__Termux__. 
+
+> apt update
+
 > pkg install git -y
 
 __Other__
